@@ -1,5 +1,4 @@
 # Fetch_Take_Home_Assignment
-Files that contain my answers to the Fetch Analytics Engineering take home assignment.
 
 This repo contains the files necessary to answer the questions for the Fetch analytics engineering take home assignment. Below is a quick outline for the files:
 
